@@ -24,8 +24,7 @@ you plan to use for your change.**
 **3. Does this project expect a linked issue before opening a PR, or is a PR
 description enough?**
 
-> No just the task have an issue.
-
+> yes expects
 ---
 
 ## Part 2 — After forking and cloning
@@ -91,8 +90,8 @@ e391163 docs: add wafaa atef to contributors list
 **8. Paste your PR link. How many commits and how many files changed does
 your PR show?**
 
-> Your answer here.
-
+> link : gh pr checkout 26
+> files changed : 2 files , commits :4 commits
 ---
 
 ## Part 6 — Final reflection
